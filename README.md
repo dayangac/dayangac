@@ -1,3 +1,3 @@
-### Digitally Fabricating
+digitally fabricating
 
-#### Hisar Highschool Senior
+
