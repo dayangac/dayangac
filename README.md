@@ -1,3 +1,1 @@
-digitally fabricating
-
-
+digital fabrication research @ idealab fablab
