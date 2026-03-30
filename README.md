@@ -1,1 +1,1 @@
-digital fabrication research @ idealab fablab
+digital fab | comp phy
