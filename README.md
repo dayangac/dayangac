@@ -7,5 +7,5 @@ orgs
 - [HisarCS](https://github.com/HisarCS)
 
 open source contributions
-- [OCaml-Re](https://github.com/ocaml/ocaml-re) — Pure OCaml regular-expression library
 - [OCaml-LSP](https://github.com/ocaml/ocaml-lsp) — Language Server Protocol implementation for OCaml
+- [OCaml-Re](https://github.com/ocaml/ocaml-re) — Pure OCaml regular-expression library
