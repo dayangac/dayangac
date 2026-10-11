@@ -1,4 +1,5 @@
-I like designing design environments.   
+"geometry and designing design environments", that me.)
+
 orgs
 - [IdeaLab – Design Environments Group](https://github.com/IdeaLab-Design-Environments-Group)
 - [HisarCS](https://github.com/HisarCS)
