@@ -1,4 +1,4 @@
-"geometry and designing design environments", that me.)
+"geometry and designing design environments", that's me.)
 
 orgs
 - [IdeaLab – Design Environments Group](https://github.com/IdeaLab-Design-Environments-Group)
