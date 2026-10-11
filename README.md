@@ -1,7 +1,4 @@
-I like designing design environments.
-
-recently interested in anything functional.
-   
+I like designing design environments.   
 orgs
 - [IdeaLab – Design Environments Group](https://github.com/IdeaLab-Design-Environments-Group)
 - [HisarCS](https://github.com/HisarCS)
