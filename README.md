@@ -1,5 +1,7 @@
 "geometry and designing design environments", that's me.)
 
+I work on open-source hardware also
+
 orgs
 - [IdeaLab – Design Environments Group](https://github.com/IdeaLab-Design-Environments-Group)
 - [HisarCS](https://github.com/HisarCS)
