@@ -1,6 +1,6 @@
 "geometry and designing design environments", that's me.)
 
-I work on open-source hardware also
+also are AI Chiplets cool...
 
 orgs
 - [IdeaLab – Design Environments Group](https://github.com/IdeaLab-Design-Environments-Group)
