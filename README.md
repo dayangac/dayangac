@@ -1,6 +1,6 @@
 "geometry and designing design environments", that's me.)
 
-also are AI Chiplets cool...
+also AI Chiplets are cool...
 
 orgs
 - [IdeaLab – Design Environments Group](https://github.com/IdeaLab-Design-Environments-Group)
